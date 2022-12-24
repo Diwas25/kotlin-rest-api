@@ -9,3 +9,4 @@ class KotlinRestApiApplication
 fun main(args: Array<String>) {
 	runApplication<KotlinRestApiApplication>(*args)
 }
+
